@@ -48,22 +48,21 @@
 
         const options = [
             "none",
-            "avenir-white",
-            "foghorn",
-            "markdown-alt",
-            "markdown",
-            "markdown1",
-            "markdown2",
-            "markdown3",
-            "markdown4",
-            "markdown5",
-            "markdown6",
-            "markdown7",
-            "markdown8",
-            "markdown9",
-            "markdown10",
-            "screen",
-            "swiss"
+            "github-markdown-dark",
+            "github-markdown-light",
+            "github-markdown",
+            "jasonm23-avenir-white",
+            "jasonm23-dark",
+            "jasonm23-foghorn",
+            "jasonm23-swiss",
+            "jotander-air",
+            "jotander-modest",
+            "jotander-retro",
+            "jotander-splendor",
+            "markedapp-byword",
+            "thomasf-solarizedcssdark",
+            "thomasf-solarizedcsslight",
+            "witex"
         ];
         options.forEach((optionText) => {
             const option = document.createElement('option');
@@ -125,6 +124,7 @@
                         }
                         const mdBlockElement = document.createElement('md-block');
                         mdBlockElement.classList.add(languageClass);
+                        mdBlockElement.classList.add('markdown-body');
                         mdBlockElement.textContent = codeElement.textContent;
                         preElement.parentNode.replaceChild(mdBlockElement, preElement);
                         // Convert the markdown to html

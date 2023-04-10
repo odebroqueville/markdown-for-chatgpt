@@ -41,22 +41,21 @@
     "web_accessible_resources": [
         {
             "resources": [
-                "styles/avenir-white.css",
-                "styles/foghorn.css",
-                "styles/markdown-alt.css",
-                "styles/markdown.css",
-                "styles/markdown1.css",
-                "styles/markdown2.css",
-                "styles/markdown3.css",
-                "styles/markdown4.css",
-                "styles/markdown5.css",
-                "styles/markdown6.css",
-                "styles/markdown7.css",
-                "styles/markdown8.css",
-                "styles/markdown9.css",
-                "styles/markdown10.css",
-                "styles/screen.css",
-                "styles/swiss.css"
+                "styles/github-markdown-dark.css",
+                "styles/github-markdown-light.css",
+                "styles/github-markdown.css",
+                "styles/jasonm23-avenir-white.css",
+                "styles/jasonm23-dark.css",
+                "styles/iasonm23-foghorn.css",
+                "styles/jasonm23-swiss.css",
+                "styles/jotander-air.css",
+                "styles/jotander-modest.css",
+                "styles/iotander-retro.css",
+                "styles/jotander-splendor.css",
+                "styles/markedapp-byword.css",
+                "styles/thomasf-solarizedcssdark.css",
+                "styles/thomasf-solarizedcsslight.css",
+                "styles/witex.css"
             ],
             "matches": [
                 "https://chat.openai.com/*"
