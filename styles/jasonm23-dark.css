@@ -7,6 +7,10 @@ body {
     margin: auto;
 }
 
+.text-gray-800 {
+    color: #EEE !important;
+}
+
 h1,
 h2,
 h3,
