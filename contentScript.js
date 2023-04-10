@@ -58,7 +58,6 @@
             "jotander-air",
             "jotander-modest",
             "jotander-retro",
-            "jotander-splendor",
             "markedapp-byword",
             "thomasf-solarizedcssdark",
             "thomasf-solarizedcsslight",
