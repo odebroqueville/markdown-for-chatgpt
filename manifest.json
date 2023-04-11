@@ -41,10 +41,6 @@
     "web_accessible_resources": [
         {
             "resources": [
-                "fonts/lmroman10-regular.woff",
-                "fonts/lmroman10-bold.woff",
-                "fonts/lmroman10-italic.woff",
-                "fonts/lmroman10-bolditalic.woff",
                 "styles/github-markdown-dark.css",
                 "styles/github-markdown-light.css",
                 "styles/jasonm23-avenir-white.css",
