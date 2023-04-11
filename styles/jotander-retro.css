@@ -9,6 +9,10 @@ pre {
     overflow-x: scroll;
 }
 
+.text-gray-800 {
+    color: #c9d1d9 !important;
+}
+
 @media print {
 
     *,

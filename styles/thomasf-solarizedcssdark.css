@@ -37,6 +37,10 @@ body {
     margin: 0;
 }
 
+.text-gray-800 {
+    color: #c9d1d9 !important;
+}
+
 a:focus {
     outline: thin dotted;
 }
@@ -219,6 +223,7 @@ html {
 
 code {
     background-color: #073642;
+    color: #c9d1d9 !important;
     padding: 2px;
 }
 

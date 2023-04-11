@@ -50,7 +50,6 @@
             "none",
             "github-markdown-dark",
             "github-markdown-light",
-            "github-markdown",
             "jasonm23-avenir-white",
             "jasonm23-dark",
             "jasonm23-foghorn",
